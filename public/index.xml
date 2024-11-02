@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客123</title>
+    <link>https://yourdomain.com/</link>
+    <description>Recent content on 我的博客123</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://yourdomain.com/posts/first-post/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+      <guid>https://yourdomain.com/posts/first-post/</guid>
+      <description>&lt;p&gt;这是我的第一篇文章。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
